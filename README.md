@@ -1,20 +1,14 @@
+# Hello there, I'm Schuyler Good 👋
 
-<!--
-**SchuylerGood/SchuylerGood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am currently in my second year at Queen's University in Kingston, ON, majoring in computer science with a focus in game development.
+- Currently learning Web development frameworks
+- Looking for Summer 2023 Internships in front end or full stack software development
+- Profesional interests: Frontend development, UI/UX, Game development, Full stack development
+- Non profesional interests: Movies, Weightlifting, Travel, and Reading
+- 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SchuylerGood&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchuylerGood">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchuylerGood&layout=compact&langs_count=8">
 </div>

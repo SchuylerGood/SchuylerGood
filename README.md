@@ -1,6 +1,6 @@
 # Hello there, I'm Schuyler Good 👋
 
-I am currently in my second year at Queen's University in Kingston, ON, majoring in computer science with a focus in game development. Looking for Summer 2023 Internships in front end or full stack software development
+I am currently in my third year at Queen's University in Kingston, ON, majoring in computer science with a focus in game development. Looking for Summer 2024 Internships in software development, web development, or UI/UX Design!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Schuyler_Good-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/schuyler-good-19043018a/)](https://www.linkedin.com/in/schuyler-good-19043018a/)
 [![Gmail Badge](https://img.shields.io/badge/-schuylergood@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:schuylergood@gmail.com)](mailto:schuylergood@gmail.com)

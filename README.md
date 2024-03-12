@@ -2,9 +2,10 @@
 
 I am currently in my third year at Queen's University in Kingston, ON, majoring in computer science with a focus in game development. Looking for Summer 2024 Internships in software development, web development, or UI/UX Design!
 
+Please check out my [Personal Website](https://schuylergood.com)!
+
 [![Linkedin Badge](https://img.shields.io/badge/-Schuyler_Good-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/schuyler-good-19043018a/)](https://www.linkedin.com/in/schuyler-good-19043018a/)
 [![Gmail Badge](https://img.shields.io/badge/-schuylergood@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:schuylergood@gmail.com)](mailto:schuylergood@gmail.com)
-[![Personal Website](https://img.shields.io/badge/-Personal_Site-c14438?style=flat-square&logo=Expo&logoColor=white&color=purple)](https://schuylergood.com)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Schuyler_Good-c14438?style=flat-square&logo=Stackoverflow&logoColor=white&color=orange)](https://stackoverflow.com/users/20922162/schuyler-good?tab=profile)
 
 ---

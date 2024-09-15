@@ -1,6 +1,6 @@
 # Hello there, I'm Schuyler Good 👋
 
-I am currently in my third year at Queen's University in Kingston, ON, majoring in computer science with a focus in game development. Looking for Summer 2024 Internships in software development, web development, or UI/UX Design!
+My name is Schuyler Good and I am a 4th year student at Queen's University, I am graduating this Spring in May and I am currently pursuing Software Engineering Roles. I have exceptional experience in software engineering specifically with Frontend engineering. I have had 3 past coding internships at Sabre Global, Linkup, and Erickson Building Inc. where I have gained knowledge and insight into what its like working on a team that delivers software solutions. I am currently working on 2 startups, one in the healthcare field that is providing a platform to connect indigenous people in remote canada to doctors in the cities. The other one is a mobile app for campus nightlife that will bring students together. I thoroughly enjoy developing functional, scalable applications and systems with a passion for accessibility in frontend architecture
 
 Please check out my [Personal Website](https://schuylergood.com)!
 

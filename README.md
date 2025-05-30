@@ -1,6 +1,8 @@
-# Hello there, I'm Schuyler Good 👋
+# Hello there, I'm Sky Good 👋
 
-My name is Schuyler Good and I am a 4th year student at Queen's University, I am graduating this Spring in May and I am currently pursuing Software Engineering Roles. I have exceptional experience in software engineering specifically with Frontend engineering. I have had 3 past coding internships at Sabre Global, Linkup, and Erickson Building Inc. where I have gained knowledge and insight into what its like working on a team that delivers software solutions. I am currently working on 2 startups, one in the healthcare field that is providing a platform to connect indigenous people in remote canada to doctors in the cities. The other one is a mobile app for campus nightlife that will bring students together. I thoroughly enjoy developing functional, scalable applications and systems with a passion for accessibility in frontend architecture
+I am a software engineer based in New York City. 🏙️ I'm currently working at Superscript a healthtech startup building the future of consumer-first healthcare!
+
+I recently graduated from Queen's University, where I learned full stack software development and game development. I have a passion for developing and designing intuitive, seamless user experiences!
 
 Please check out my [Personal Website](https://schuylergood.com)!
 
